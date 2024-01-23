@@ -1,6 +1,6 @@
 # Project 15
 
-[Live link](https://guileless-gecko-16759d.netlify.app)
+[Live link](https://project-15-ten.vercel.app/)
 ## Name:Vaishnavi Jaju
 
 **The project almost 7-8 hrs to complete.**
